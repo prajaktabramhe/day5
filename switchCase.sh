@@ -10,7 +10,7 @@ do
                          ;;
                txt)   echo "$filename: Text file"
                          ;;
-                 *)   echo "$filename: Not found"
+                 *)   echo "$filename: Not "
                          ;;
       
     esac
